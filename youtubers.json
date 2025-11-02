@@ -1,1 +1,303 @@
+{
+  "enes-batur": {
+    "name": "Enes Batur",
+    "videos": [
+      "https://youtu.be/ENES1",
+      "https://youtu.be/ENES2",
+      "https://youtu.be/ENES3",
+      "https://youtu.be/ENES4",
+      "https://youtu.be/ENES5",
+      "https://youtu.be/ENES6",
+      "https://youtu.be/ENES7",
+      "https://youtu.be/ENES8",
+      "https://youtu.be/ENES9",
+      "https://youtu.be/ENES10"
+    ]
+  },
+  "orkun-isitmak": {
+    "name": "Orkun Işıtmak",
+    "videos": [
+      "https://youtu.be/ORKUN1",
+      "https://youtu.be/ORKUN2",
+      "https://youtu.be/ORKUN3",
+      "https://youtu.be/ORKUN4",
+      "https://youtu.be/ORKUN5",
+      "https://youtu.be/ORKUN6",
+      "https://youtu.be/ORKUN7",
+      "https://youtu.be/ORKUN8",
+      "https://youtu.be/ORKUN9",
+      "https://youtu.be/ORKUN10"
+    ]
+  },
+  "kafalar": {
+    "name": "Kafalar",
+    "videos": [
+      "https://youtu.be/KAF1",
+      "https://youtu.be/KAF2",
+      "https://youtu.be/KAF3",
+      "https://youtu.be/KAF4",
+      "https://youtu.be/KAF5",
+      "https://youtu.be/KAF6",
+      "https://youtu.be/KAF7",
+      "https://youtu.be/KAF8",
+      "https://youtu.be/KAF9",
+      "https://youtu.be/KAF10"
+    ]
+  },
+  "ruhi-cenet": {
+    "name": "Ruhi Çenet",
+    "videos": [
+      "https://youtu.be/RUHI1",
+      "https://youtu.be/RUHI2",
+      "https://youtu.be/RUHI3",
+      "https://youtu.be/RUHI4",
+      "https://youtu.be/RUHI5",
+      "https://youtu.be/RUHI6",
+      "https://youtu.be/RUHI7",
+      "https://youtu.be/RUHI8",
+      "https://youtu.be/RUHI9",
+      "https://youtu.be/RUHI10"
+    ]
+  },
+  "baris-ozcan": {
+    "name": "Barış Özcan",
+    "videos": [
+      "https://youtu.be/BARIS1",
+      "https://youtu.be/BARIS2",
+      "https://youtu.be/BARIS3",
+      "https://youtu.be/BARIS4",
+      "https://youtu.be/BARIS5",
+      "https://youtu.be/BARIS6",
+      "https://youtu.be/BARIS7",
+      "https://youtu.be/BARIS8",
+      "https://youtu.be/BARIS9",
+      "https://youtu.be/BARIS10"
+    ]
+  },
+  "reynmen": {
+    "name": "Reynmen",
+    "videos": [
+      "https://youtu.be/REYN1",
+      "https://youtu.be/REYN2",
+      "https://youtu.be/REYN3",
+      "https://youtu.be/REYN4",
+      "https://youtu.be/REYN5",
+      "https://youtu.be/REYN6",
+      "https://youtu.be/REYN7",
+      "https://youtu.be/REYN8",
+      "https://youtu.be/REYN9",
+      "https://youtu.be/REYN10"
+    ]
+  },
+  "jahrein": {
+    "name": "Jahrein",
+    "videos": [
+      "https://youtu.be/JAH1",
+      "https://youtu.be/JAH2",
+      "https://youtu.be/JAH3",
+      "https://youtu.be/JAH4",
+      "https://youtu.be/JAH5",
+      "https://youtu.be/JAH6",
+      "https://youtu.be/JAH7",
+      "https://youtu.be/JAH8",
+      "https://youtu.be/JAH9",
+      "https://youtu.be/JAH10"
+    ]
+  },
+  "uras-benlioglu": {
+    "name": "Uras Benlioğlu",
+    "videos": [
+      "https://youtu.be/URAS1",
+      "https://youtu.be/URAS2",
+      "https://youtu.be/URAS3",
+      "https://youtu.be/URAS4",
+      "https://youtu.be/URAS5",
+      "https://youtu.be/URAS6",
+      "https://youtu.be/URAS7",
+      "https://youtu.be/URAS8",
+      "https://youtu.be/URAS9",
+      "https://youtu.be/URAS10"
+    ]
+  },
+  "dogan-kabak": {
+    "name": "Doğan Kabak",
+    "videos": [
+      "https://youtu.be/DOGAN1",
+      "https://youtu.be/DOGAN2",
+      "https://youtu.be/DOGAN3",
+      "https://youtu.be/DOGAN4",
+      "https://youtu.be/DOGAN5",
+      "https://youtu.be/DOGAN6",
+      "https://youtu.be/DOGAN7",
+      "https://youtu.be/DOGAN8",
+      "https://youtu.be/DOGAN9",
+      "https://youtu.be/DOGAN10"
+    ]
+  },
+  "alper-rende": {
+    "name": "Alper Rende",
+    "videos": [
+      "https://youtu.be/ALPER1",
+      "https://youtu.be/ALPER2",
+      "https://youtu.be/ALPER3",
+      "https://youtu.be/ALPER4",
+      "https://youtu.be/ALPER5",
+      "https://youtu.be/ALPER6",
+      "https://youtu.be/ALPER7",
+      "https://youtu.be/ALPER8",
+      "https://youtu.be/ALPER9",
+      "https://youtu.be/ALPER10"
+    ]
+  },
+  "fester-abdu": {
+    "name": "Fester Abdü",
+    "videos": [
+      "https://youtu.be/FESTER1",
+      "https://youtu.be/FESTER2",
+      "https://youtu.be/FESTER3",
+      "https://youtu.be/FESTER4",
+      "https://youtu.be/FESTER5",
+      "https://youtu.be/FESTER6",
+      "https://youtu.be/FESTER7",
+      "https://youtu.be/FESTER8",
+      "https://youtu.be/FESTER9",
+      "https://youtu.be/FESTER10"
+    ]
+  },
+  "yorekok": {
+    "name": "Yorekok",
+    "videos": [
+      "https://youtu.be/YOR1",
+      "https://youtu.be/YOR2",
+      "https://youtu.be/YOR3",
+      "https://youtu.be/YOR4",
+      "https://youtu.be/YOR5",
+      "https://youtu.be/YOR6",
+      "https://youtu.be/YOR7",
+      "https://youtu.be/YOR8",
+      "https://youtu.be/YOR9",
+      "https://youtu.be/YOR10"
+    ]
+  },
+  "stolk": {
+    "name": "Stolk",
+    "videos": [
+      "https://youtu.be/STOLK1",
+      "https://youtu.be/STOLK2",
+      "https://youtu.be/STOLK3",
+      "https://youtu.be/STOLK4",
+      "https://youtu.be/STOLK5",
+      "https://youtu.be/STOLK6",
+      "https://youtu.be/STOLK7",
+      "https://youtu.be/STOLK8",
+      "https://youtu.be/STOLK9",
+      "https://youtu.be/STOLK10"
+    ]
+  },
+  "emre-durmus": {
+    "name": "Emre Durmuş",
+    "videos": [
+      "https://youtu.be/EMRE1",
+      "https://youtu.be/EMRE2",
+      "https://youtu.be/EMRE3",
+      "https://youtu.be/EMRE4",
+      "https://youtu.be/EMRE5",
+      "https://youtu.be/EMRE6",
+      "https://youtu.be/EMRE7",
+      "https://youtu.be/EMRE8",
+      "https://youtu.be/EMRE9",
+      "https://youtu.be/EMRE10"
+    ]
+  },
+  "biltek": {
+    "name": "BilTek",
+    "videos": [
+      "https://youtu.be/BIL1",
+      "https://youtu.be/BIL2",
+      "https://youtu.be/BIL3",
+      "https://youtu.be/BIL4",
+      "https://youtu.be/BIL5",
+      "https://youtu.be/BIL6",
+      "https://youtu.be/BIL7",
+      "https://youtu.be/BIL8",
+      "https://youtu.be/BIL9",
+      "https://youtu.be/BIL10"
+    ]
+  },
+  "danla-bilic": {
+    "name": "Danla Bilic",
+    "videos": [
+      "https://youtu.be/DANLA1",
+      "https://youtu.be/DANLA2",
+      "https://youtu.be/DANLA3",
+      "https://youtu.be/DANLA4",
+      "https://youtu.be/DANLA5",
+      "https://youtu.be/DANLA6",
+      "https://youtu.be/DANLA7",
+      "https://youtu.be/DANLA8",
+      "https://youtu.be/DANLA9",
+      "https://youtu.be/DANLA10"
+    ]
+  },
+  "miafitz": {
+    "name": "MiaFitz",
+    "videos": [
+      "https://youtu.be/MIA1",
+      "https://youtu.be/MIA2",
+      "https://youtu.be/MIA3",
+      "https://youtu.be/MIA4",
+      "https://youtu.be/MIA5",
+      "https://youtu.be/MIA6",
+      "https://youtu.be/MIA7",
+      "https://youtu.be/MIA8",
+      "https://youtu.be/MIA9",
+      "https://youtu.be/MIA10"
+    ]
+  },
+  "deli-mi-ne": {
+    "name": "Deli Mi Ne",
+    "videos": [
+      "https://youtu.be/DEL1",
+      "https://youtu.be/DEL2",
+      "https://youtu.be/DEL3",
+      "https://youtu.be/DEL4",
+      "https://youtu.be/DEL5",
+      "https://youtu.be/DEL6",
+      "https://youtu.be/DEL7",
+      "https://youtu.be/DEL8",
+      "https://youtu.be/DEL9",
+      "https://youtu.be/DEL10"
+    ]
+  },
+  "kafalar-ekstra": {
+    "name": "Kafalar Ekstra",
+    "videos": [
+      "https://youtu.be/KE1",
+      "https://youtu.be/KE2",
+      "https://youtu.be/KE3",
+      "https://youtu.be/KE4",
+      "https://youtu.be/KE5",
+      "https://youtu.be/KE6",
+      "https://youtu.be/KE7",
+      "https://youtu.be/KE8",
+      "https://youtu.be/KE9",
+      "https://youtu.be/KE10"
+    ]
+  },
+  "mervan": {
+    "name": "Mervan",
+    "videos": [
+      "https://youtu.be/MERV1",
+      "https://youtu.be/MERV2",
+      "https://youtu.be/MERV3",
+      "https://youtu.be/MERV4",
+      "https://youtu.be/MERV5",
+      "https://youtu.be/MERV6",
+      "https://youtu.be/MERV7",
+      "https://youtu.be/MERV8",
+      "https://youtu.be/MERV9",
+      "https://youtu.be/MERV10"
+    ]
+  }
+}
 
